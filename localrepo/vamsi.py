@@ -21,6 +21,6 @@ for i in range(1):
 print(f"TOTAL PRICE : {TOTAL_PRICE} ONLY/-")
 for i in range(1):
     print("======================================")
-    print("**************THANKS FOR SHIPPING**************")
+    print("**************THANKS FOR SHPPING**************")
     
     
